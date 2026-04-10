@@ -58,7 +58,7 @@ A lot of teams say they care about quality, but what they really have is a pile 
 
 This README is a better default.
 
-It turns testing from “more tests” into a strategy.
+It turns testing from "more tests" into a strategy.
 
 ---
 
@@ -151,7 +151,7 @@ Integration tests are where mature teams earn their confidence.
 
 Use real infrastructure in containers whenever practical.
 
-A slower, realistic integration test is often worth ten brittle, over-mocked “unit” tests that never touched the real boundary.
+A slower, realistic integration test is often worth ten brittle, over-mocked "unit" tests that never touched the real boundary.
 
 ---
 
@@ -249,8 +249,8 @@ One pipeline is rarely enough.
 - resilience / chaos scenarios if the team is ready
 - cross-version compatibility checks
 
-The right question is not “did everything run?”  
-It is “did the right signal arrive at the right stage?”
+The right question is not "did everything run?"  
+It is "did the right signal arrive at the right stage?"
 
 ---
 
@@ -327,7 +327,7 @@ Testing is not one wall. It is a sequence of increasingly expensive confidence g
 - shared mutable test fixtures across suites;
 - giant mocks that replicate the production system badly;
 - silently tolerated flakes;
-- integration tests that require a human to “just run this service first.”
+- integration tests that require a human to "just run this service first".
 
 ---
 
