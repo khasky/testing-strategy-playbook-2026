@@ -68,7 +68,6 @@ These repositories form one playbook suite:
 
 - [Backend Architecture Playbook 2026](https://github.com/khasky/backend-architecture-playbook-2026) — APIs, boundaries, OpenAPI, persistence, errors
 - [Frontend Architecture Playbook 2026](https://github.com/khasky/frontend-architecture-playbook-2026) — React structure, performance, consuming APIs and contracts
-- [Testing Strategy Playbook 2026](https://github.com/khasky/testing-strategy-playbook-2026) — *this repository* — unit, integration, contract, E2E, flakiness, CI layering
 - [DevOps Delivery Playbook 2026](https://github.com/khasky/devops-delivery-playbook-2026) — branches, pipelines, staging, canary, rollback, secret scanning
 - [Engineering Lead Playbook 2026](https://github.com/khasky/engineering-lead-playbook-2026) — technical leadership, standards, RFCs, review culture, risk
 - [Best of JavaScript 2026](https://github.com/khasky/best-of-javascript-2026) — curated Vitest, Playwright, TanStack Query, codegen, and wider tooling
